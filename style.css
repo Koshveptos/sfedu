@@ -1,3 +1,26 @@
+/*
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+a:active{
+    color: white;
+    text-decoration: none;
+}
+*/
+a{
+    color: white;
+    text-decoration: none;
+}
+
 .head {
     height: 56px;
     background-color: #353E47;
@@ -5,4 +28,12 @@
     top: 0;
     left: 0;
     right: 0;
+}
+.hrefOne{
+    display:flex;
+    justify-content: start;
+}
+.hrefTwo{
+    display:flex;
+    justify-content: end;
 }
