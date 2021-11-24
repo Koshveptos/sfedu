@@ -1,4 +1,7 @@
 
+/* !!!!!!!!!!https://bureau.ru/soviet/20200312/!!!!!!!!!! */
+
+
 /* a{
     color: white;
     text-decoration: none;
@@ -49,7 +52,7 @@ header {
 .menu a {
     /* padding: 8px 10px; */
     /* margin-left: 0.1px; */
-    color: #000;
+    color: rgb(255, 255, 255);
     text-decoration: none;
   }
 .exitIco a{
@@ -59,6 +62,7 @@ header {
     padding-bottom: 18px;
    color: #000;
    text-decoration: none;
+   
 }
 .entrance a{
      /* padding: 18px 10px; */
@@ -67,17 +71,22 @@ header {
      padding-right: 4px;
      padding-bottom: 18px;
     
-    color: #000;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 .logo {
-    margin-right: 30px;
+    margin-right: 6px;
   }
 .sfeduStyle{
-    font-style: italic;
+    color: white;
+    font-style: oblique;
+    font-weight: bold;
+    ;
+    
 }
 .entranceStyle{
-    font-style: Times, Times New Roman, serif;
+    /* font-style: Times, Times New Roman; */
+    font-style: none;
 }
   /* .menu a,
 .menu .active {  
